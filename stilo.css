@@ -173,7 +173,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-white,.w3-hover-white:hover{color:#000!important;background-color:#fff!important}
 
 
-.w3-black,.w3-hover-black:hover{color:#d04949!important;background: rgb(150, 41, 223);
+.w3-black,.w3-hover-black:hover{color:#fff!important;background: rgb(150, 41, 223);
   background: rgb(63,45,83);
 background: linear-gradient(171deg, 
 rgba(63,45,83,1) 14%,
