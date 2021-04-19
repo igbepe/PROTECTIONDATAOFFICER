@@ -173,7 +173,15 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-white,.w3-hover-white:hover{color:#000!important;background-color:#fff!important}
 
 
-.w3-black,.w3-hover-black:hover{color:#d04949!important;background: rgb(136,67,219);background: linear-gradient(176deg,rgba(136,67,219,1) 36%,rgba(111,40,182,1) 51%,rgba(94,31,149,1) 66%,rgba(106,20,107,1) 86%,rgba(113,31,119,1) 100%)!important}
+.w3-black,.w3-hover-black:hover{color:#d04949!important;background: rgb(150, 41, 223);
+  background: rgb(63,45,83);
+background: linear-gradient(171deg, 
+rgba(63,45,83,1) 14%,
+rgba(117,50,117,1) 33%, 
+rgba(76,35,117,1) 54%, 
+rgba(29,60,48,1) 72%, 
+rgba(13,71,96,1) 80%, 
+rgba(104,41,205,1) 94%)!important}
 .w3-grey,.w3-hover-grey:hover,.w3-gray,.w3-hover-gray:hover{color:#000!important;background-color:#9e9e9e!important}
 .w3-light-grey,.w3-hover-light-grey:hover,.w3-light-gray,.w3-hover-light-gray:hover{color:#000!important;background-color:#f1f1f1!important}
 .w3-dark-grey,.w3-hover-dark-grey:hover,.w3-dark-gray,.w3-hover-dark-gray:hover{color:#fff!important;background-color:#616161!important}
