@@ -300,4 +300,15 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
   display: flex;
 }
 
-.more {background-color: #572364;}
+
+.fcc-btn {
+  background-color: #572364;
+  color: white;
+  padding: 15px 25px;
+  text-decoration: none;
+}
+
+.fcc-btn:hover {
+  background-color: #223094;
+}
+
